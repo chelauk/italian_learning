@@ -32,7 +32,7 @@ these are the subject pronouns 🏄
 |:-:|:-:|:-:|
 |io| first person singular | I |
 |tu | second person singular |You|
-|lui/lei| third person |he/her|
+|lui/lei| third person |he/her/it |
 |noi | first person plural | We |
 |voi | second person plural | You ( plural )|
 |loro | third person plural |they|
