@@ -37,7 +37,7 @@ these are the subject pronouns 🏄
 |voi | second person plural | You ( plural )|
 |loro | third person plural |they|
 
-🃏 what I got stuck on for a while is that there is no 'it' subject pronoun in italian. When, say the dog did something we use would use **lui** (to stand for il cane). I guess we would be perfectly comfortable doing this with pets but it also applies to inanimate objects. 
+🃏 what I got stuck on for a while is that there is no 'it' subject pronoun in italian. When, say the dog, did something we use would use **lui** (to stand for il cane). I guess we would be perfectly comfortable doing this with pets but it also applies to inanimate objects. 
 
 For example:
 
