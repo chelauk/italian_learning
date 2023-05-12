@@ -3,6 +3,7 @@ It is worth learning, it is slightly different and learning it may save a bit of
 * it has fewer letters than the English alphabet 🏄
 * but extra letters are included because of the entry of foreign words into italan 🃏
  * these are:
+ 
    - j ( ee loon-gah )
    - k ( kappa )
    - x ( eeks )
