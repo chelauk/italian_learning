@@ -26,6 +26,8 @@ This should be easy and maybe it is just me but after ten I always forget 🃏 w
 # 3  Subject Pronouns.
 I know that grammatical terms like "subject pronoun" can be off-putting but they are simply shorthand for a long description.  I will endevour to give a description of the term as soon as I used it and then go on touse the term.  The subject pronoun refers to the 'doer' in a sentence with a verb (a 'doing' word).  They are generally unecessary because they verb ending will tell you who the subject is but 🃏 they can be used to add emphasis or clarification. With regard to using the 'person' terminology it is another grammatical term but I hope it is clear.
 
+these are the subject pronouns 🏄
+
 | subject pronoun | person | translation |
 |:-:|:-:|:-:|
 |io| first person singular | I |
