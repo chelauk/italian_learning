@@ -35,3 +35,4 @@ I know that grammatical terms like "subject pronoun" can be off-putting but they
 |voi | second person plural | You ( plural )|
 |loro | third person plural |they|
 
+🃏 what I got completely stuck on for a while is that there is no 'it' subject pronoun in italian, when the say dog did something we use would use lui (il cane) as the subject pronoun.
