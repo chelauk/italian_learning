@@ -9,7 +9,9 @@ It is worth learning, it is slightly different and learning it may save a bit of
    - y ( ipsilon/ee greca )
 
 # 2 Numbers.
-This should be easy and maybe it is just me but after ten I always forget 🃏 when to switch from 'ten after' : undici to 'ten before':'dicianove' so
+This should be easy and maybe it is just me but after ten I always forget 🃏 when to switch from 'ten after' eg: undici to 'ten before' eg :dicianove
+
+
   - undici
   - dodici
   - tredici
