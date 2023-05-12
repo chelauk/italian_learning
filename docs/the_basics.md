@@ -37,11 +37,11 @@ these are the subject pronouns 🏄
 |voi | second person plural | You ( plural )|
 |loro | third person plural |they|
 
-🃏 what I got stuck on for a while is that there is no 'it' subject pronoun in italian. When, say the dog did something we use would use **lui** (to stand for il cane). 
+🃏 what I got stuck on for a while is that there is no 'it' subject pronoun in italian. When, say the dog did something we use would use **lui** (to stand for il cane). I guess we would be perfectly comfortable doing this with pets but it also applies to inanimate objects. 
 
-The subject pronoun included for added emphasis:
+For example:
 
 "The tree grew through the roof. Yes! It grew through the roof."
 "L'albero è cresciuto attraverso il tetto. Sì! È lui cresciuto attraverso il tetto."
 
-In this translation, "L'albero è cresciuto" means "The tree grew," "attraverso il tetto" means "through the roof," and "Sì! È lui cresciuto attraverso il tetto." means "Yes! It is he who grew through the roof." The pronoun "lui" is used to emphasize the subject, "the tree" in this case.
+In this translation, the pronoun "lui" is used to emphasize the subject, "the tree" in this case.
