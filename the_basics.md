@@ -7,3 +7,15 @@ It is worth learning, it is slightly different and learning it may save a bit of
    - k ( kappa )
    - x ( eeks )
    - y ( ipsilon/ee greca )
+
+# 2 Numbers.
+This should be easy and maybe it is just me but after ten I always forget 🃏 when to switch from 'ten after' : undici to 'ten before':'dicianove' so
+  - undici
+  - dodici
+  - tredici
+  - quattordici
+  - quindici
+  - sedici
+  - diciassette  <<<< there's the switch! one day I will get it right 😆
+  - diciotto
+  - diciannove 
