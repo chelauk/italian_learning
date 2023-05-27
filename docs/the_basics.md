@@ -48,6 +48,6 @@ Could I say in Italian:
 chatGPT:
 Yes, you can use "Esso" to emphasize the subject "it" in the sentence "L'albero è cresciuto attraverso il tetto. Esso è cresciuto attraverso il tetto." It adds emphasis to the fact that the tree has grown through the roof.
 
-But if you search for italian subject pronouns esso/essa are simply omitted, maybe I am getting to hung up on this.
+But if you search for italian subject pronouns esso/essa are simply omitted, maybe I am getting too hung up on this.
 
 
