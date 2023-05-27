@@ -37,11 +37,17 @@ these are the subject pronouns 🏄
 |voi | second person plural | You ( plural )|
 |loro | third person plural |they|
 
-🃏 what I got stuck on for a while is that there is no 'it' subject pronoun in italian. When, say the dog, did something we use would use **lui** (to stand for il cane). I guess we would be perfectly comfortable doing this with pets but it also applies to inanimate objects. 
+🃏 what I got stuck on for a while is that the subject pronoun for 'it' is brushed over in most of the textbooks I've encountered.
+but I got stuck trying to translate it.
 
 For example:
+This is a chat with chatGPT so there may be errors:
+Could I say in Italian:
+ "L'albero è cresciuto attraverso il tetto. Esso è cresciuto attraverso il tetto"?
 
-"The tree grew through the roof. Yes! It grew through the roof."
-"L'albero è cresciuto attraverso il tetto. Sì! È lui cresciuto attraverso il tetto."
+chatGPT:
+Yes, you can use "Esso" to emphasize the subject "it" in the sentence "L'albero è cresciuto attraverso il tetto. Esso è cresciuto attraverso il tetto." It adds emphasis to the fact that the tree has grown through the roof.
 
-In this translation, the pronoun "lui" is used to emphasize the subject, "the tree" in this case.
+But if you search for italian subject pronouns esso/essa are simply omitted, maybe I am getting to hung up on this.
+
+
