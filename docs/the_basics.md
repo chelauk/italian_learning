@@ -37,7 +37,10 @@ these are the subject pronouns 🏄
 |voi | second person plural | You ( plural )|
 |loro | third person plural |they|
 
-🃏 what I got stuck on for a while is that the subject pronoun for 'it' is brushed over in most of the textbooks I've encountered.
+🃏 Lei is also a subject pronoun for you (formal). In formal situations you have to use the third person.
+
+🃏 What I also got stuck on for a while is that the subject pronoun for 'it' is brushed over in most of the textbooks 
+I've encountered.
 but I got stuck trying to translate it.
 
 For example:
